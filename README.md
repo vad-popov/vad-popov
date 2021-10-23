@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vadim Popov
 - 👀 I’m interested in product management, data management, machine learning and historically ERP \ finance domain
 - 🌱 I’m currently learning python & ML field
-- 💞️ I’m looking an opportunity to contribute to some projects to gain experience in the fields of interest (mostly ML)
+- 💞️ I’m looking for an opportunity to contribute to some projects to gain experience in the fields of interest (mostly ML)
 - 📫 How to reach me  - telegram @vadmw
 
 <!---
